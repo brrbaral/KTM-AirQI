@@ -1,1 +1,1 @@
-# KTM-AirQI
+# Air Quality Index of Kathmandu Valley
